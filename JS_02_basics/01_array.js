@@ -2,6 +2,7 @@
 
 const MyArr = [3,6,8,11,42] //mix data types could be used
 //console.log(MyArr);
+//comment
 //array make shallow copy ie have same refernce point yaani copy me change og me bhi change layega
 
 
